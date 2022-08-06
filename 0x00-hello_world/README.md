@@ -1,6 +1,11 @@
-# streak: 100_Daysof_Code
+# Streak: 100_Daysof_Code
 # Day 1: 0x00. C - Hello, World
 Steps to compiling a C program
+- Preprocessing
+- Compilation
+- Assembly
+- Linking
+
 <br>
 <strong>man or help</strong>
 - gcc
@@ -11,7 +16,7 @@ Steps to compiling a C program
 
 ### Betty Style UseCase
 To run the Betty linter just with command `betty <filename>`:
-- Repo: Go to [Betty]() repositiory
+- Repo: Go to [Betty](https://alx-intranet.hbtn.io/rltoken/wQ4sMfsWfxvyfN67Sc11zA) repositiory
 - Clone the repoto your local machine
 - `cd` into the Betty directory
 - Install the linter with `sudo ./install.sh`
@@ -39,3 +44,11 @@ for argument in "$@" ; do
     ${BIN_PATH}/${BETTY_DOC} "$argument"
 done
 ```
+
+
+
+- Once saved, exit file and change permissions to apply to all users with `chmod a+x betty`
+- Move the `betty` file into `/bin/` directory or somewhere else in your `$PATH` with `sudo mv betty /bin/`
+
+You can now type `betty <filename>` to run Betty linter!
+
