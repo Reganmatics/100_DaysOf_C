@@ -52,3 +52,15 @@ done
 
 You can now type `betty <filename>` to run Betty linter!
 
+
+
+### Tasks
+- 0-preprocessor
+- 1-compiler
+- 2-assembler
+- 3-name
+- 4-puts
+- 5-printf
+
+## end of day 1
+<strong>time:</strong>23:24:21
