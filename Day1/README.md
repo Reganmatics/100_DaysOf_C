@@ -64,3 +64,8 @@ You can now type `betty <filename>` to run Betty linter!
 
 ## end of day 1
 <strong>time:</strong>23:24:21
+
+
+# Day 2: 0x00. C - Hello, World
+
+- task 6 and task 7
