@@ -74,4 +74,6 @@ You can now type `betty <filename>` to run Betty linter!
 # Day 3: 0x00. C - Hello World
 ### Tasks
 - 100-intel
-- 
+- 101-quote.c
+
+end of day3: 23:59:59 
