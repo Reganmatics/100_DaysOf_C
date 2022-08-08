@@ -69,3 +69,9 @@ You can now type `betty <filename>` to run Betty linter!
 # Day 2: 0x00. C - Hello, World
 ### Tasks
 - 6-size.c
+
+
+# Day 3: 0x00. C - Hello World
+### Tasks
+- 100-intel
+- 
