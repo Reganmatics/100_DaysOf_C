@@ -86,5 +86,6 @@ You can now type `betty <filename>` to run Betty linter!
 ### Tasks
 - 0. +ve anything is better than -ve nothing
 	* File: [0-positive_or_negative.c]()
-- 1. The lat digit
+
+- 1. The last digit
 	* file: [1-last_digit.c]()
