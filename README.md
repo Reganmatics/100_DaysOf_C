@@ -87,5 +87,6 @@ You can now type `betty <filename>` to run Betty linter!
 - 0. +ve anything is better than -ve nothing
 	* File: [0-positive_or_negative.c]()
 <br>
+
 - 1. The last digit
 	* file: [1-last_digit.c]()
