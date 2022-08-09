@@ -90,4 +90,4 @@ You can now type `betty <filename>` to run Betty linter!
 - task 1. The last digit
 	* file: [1-last_digit.c]()
 
-## End of day 4: 21:02:40 pm
+## End of day 4. 21:02:40 pm
