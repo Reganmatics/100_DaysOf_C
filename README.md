@@ -64,7 +64,7 @@ You can now type `betty <filename>` to run Betty linter!
 - 4-puts
 - 5-printf
 
-## end of day 1
+## End of day 1
 <strong>time:</strong>23:24:21
 
 
@@ -78,7 +78,7 @@ You can now type `betty <filename>` to run Betty linter!
 - 100-intel
 - 101-quote.c
 
-## end of day3: 23:59:59
+## End of day 3: 23:59:59
 
 
 # Day 4: 0x01. C variables, if, else, while
@@ -89,3 +89,5 @@ You can now type `betty <filename>` to run Betty linter!
 
 - task 1. The last digit
 	* file: [1-last_digit.c]()
+
+## End of day 4: 21:02:40
