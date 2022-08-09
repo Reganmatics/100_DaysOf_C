@@ -1,4 +1,6 @@
 # Streak: 100_Daysof_Code
+- This projects in this streak are a redo of the alx C curriculum with the excdption of the deadlines.
+
 # Day 1: 0x00. C - Hello, World
 Steps to compiling a C program
 - Preprocessing
@@ -76,4 +78,13 @@ You can now type `betty <filename>` to run Betty linter!
 - 100-intel
 - 101-quote.c
 
-end of day3: 23:59:59 
+## end of day3: 23:59:59
+
+
+# Day 4: 0x01. C variables, if, else, while
+`C`
+### Tasks
+- 0. +ve anything is better than -ve nothing
+	* File: [0-positive_or_negative.c]()
+- 1. The lat digit
+	* file: [1-last_digit.c]()
