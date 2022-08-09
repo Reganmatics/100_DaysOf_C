@@ -84,9 +84,8 @@ You can now type `betty <filename>` to run Betty linter!
 # Day 4: 0x01. C variables, if, else, while
 `C`
 ### Tasks
-- 0. +ve anything is better than -ve nothing
+- task 0. +ve anything is better than -ve nothing
 	* File: [0-positive_or_negative.c]()
-<br>
 
-- 1. The last digit
+- task 1. The last digit
 	* file: [1-last_digit.c]()
