@@ -98,3 +98,5 @@ You can now type `betty <filename>` to run Betty linter!
 - task 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
 - task 3. alphABET
+
+## End of Day 5. 23:53:11
