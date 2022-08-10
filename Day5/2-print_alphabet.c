@@ -2,7 +2,7 @@
 
 /**
  * main - function entry point
- * Description: displays the lowercase alphabets {a..z} 
+ * Description: displays the lowercase alphabets {a..z}
  * using only two `putchar` functions
  * Return: always (0) as an indicator of success
  */

@@ -1,5 +1,5 @@
 # Streak: 100_Daysof_Code
-- This projects in this streak are a redo of the alx C curriculum with the excdption of the deadlines.
+- <strong>The projects in this streak are a redo of the alx C curriculum with the exception of the deadlines.</strong>
 
 # Day 1: 0x00. C - Hello, World
 Steps to compiling a C program
@@ -91,3 +91,10 @@ You can now type `betty <filename>` to run Betty linter!
 	* file: [1-last_digit.c]()
 
 ## End of day 4. 21:02:40 pm
+
+# Day 5: 0x01. C variables, if, else, while. contd
+`C`
+### Tasks
+- task 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+
+- task 3. alphABET
