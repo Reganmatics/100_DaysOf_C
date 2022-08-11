@@ -92,6 +92,7 @@ You can now type `betty <filename>` to run Betty linter!
 
 ## End of day 4. 21:02:40 pm
 
+
 # Day 5: 0x01. C variables, if, else, while. contd
 `C`
 ### Tasks
@@ -100,3 +101,9 @@ You can now type `betty <filename>` to run Betty linter!
 - task 3. alphABET
 
 ## End of Day 5. 23:53:11
+
+
+# Day 6: 0x01. C variables, if, else, while. contd
+### Tasks
+- task 4. When I was having that alphabet soup, I never thought that it would pay off.
+- 
