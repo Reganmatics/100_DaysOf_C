@@ -106,4 +106,5 @@ You can now type `betty <filename>` to run Betty linter!
 # Day 6: 0x01. C variables, if, else, while. contd
 ### Tasks
 - task 4. When I was having that alphabet soup, I never thought that it would pay off.
-- 
+- task 5. Numbers
+- task 6. Numberz
