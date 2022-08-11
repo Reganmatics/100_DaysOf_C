@@ -113,4 +113,4 @@ You can now type `betty <filename>` to run Betty linter!
 - task 8. Hexadecimal
 
 
-## End of Day6. 23:48:11
+## End of Day 6. 23:48:11
