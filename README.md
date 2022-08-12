@@ -114,3 +114,13 @@ You can now type `betty <filename>` to run Betty linter!
 
 
 ## End of Day 6. 23:48:11
+
+
+# Day 7: 0x01.C avriables, if, else, while. contd
+`C`
+### Tasks
+- task 9. `Patience, persistence and perspiration make an unbeatable combination for success`
+
+- rollover task to <strong>Day 8</strong>
+
+## End of Day 7. 21:43:48
