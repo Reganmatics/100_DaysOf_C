@@ -124,3 +124,11 @@ You can now type `betty <filename>` to run Betty linter!
 - rollover task to <strong>Day 8</strong>
 
 ## End of Day 7. 21:43:48
+
+
+# Day 8. write in C
+`C`
+- WRITE.md
+using the write function fow standarsd input, output and error
+
+## end of Day8: 23:08:17
