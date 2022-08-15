@@ -132,3 +132,11 @@ You can now type `betty <filename>` to run Betty linter!
 using the write function fow standarsd input, output and error
 
 ## end of Day8: 23:08:17
+
+
+# Day9. random practice 
+- header files
+- function prototypes
+- Hackerrank c problems (Hello world) `scanf` and `printf`
+
+## End of day9: 23:39:30
