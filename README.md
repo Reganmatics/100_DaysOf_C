@@ -140,3 +140,13 @@ using the write function fow standarsd input, output and error
 - Hackerrank c problems (Hello world) `scanf` and `printf`
 
 ## End of day9: 23:39:30
+
+
+# Day10. random practice
+- header files
+- functions
+- constants
+	- const
+	- define
+
+## End of Day10: 23:56:31
