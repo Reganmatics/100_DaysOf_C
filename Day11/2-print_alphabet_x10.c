@@ -3,12 +3,17 @@
 
 
 /**
- * print_alphabet - print a..z
+ * print_alphabet_x10 - print a..z 10 times
  */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
+	int i;
+
+	for (i = 0; i < 10; i++)
+	{
 	char c = 'a';
+
 
 	while (c <= 'z')
 	{
@@ -16,4 +21,5 @@ void print_alphabet(void)
 		c++;
 	}
 	_putchar('\n');
+	}
 }
