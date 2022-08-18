@@ -150,3 +150,14 @@ using the write function fow standarsd input, output and error
 	- define
 
 ## End of Day10: 23:56:31
+
+
+# Day 11. functions
+Functions, nested loops
+- print_alphabet
+- print_alphabetx10
+- _islower
+- _isalpha
+
+
+## End of day 11: 23:47:18
