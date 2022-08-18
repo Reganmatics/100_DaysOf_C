@@ -18,5 +18,10 @@ int main(void)
 	{
 		printf("A > Z");
 	}
+
+	if (0 > 'A')
+	{
+		printf("0 > A");
+	}
 	return (0);
 }
