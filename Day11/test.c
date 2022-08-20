@@ -23,5 +23,7 @@ int main(void)
 	{
 		printf("0 > A");
 	}
+
+	printf("5 \% 3 = %d", (5%3));
 	return (0);
 }
