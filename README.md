@@ -161,3 +161,8 @@ Functions, nested loops
 
 
 ## End of day 11: 23:47:18
+
+
+# Day 12. functions contd
+- The folder for Day12 is a symbolic link to Day11, this because we require the function prototypes and the corresponding function to be in the same file, hence a symbolic link is a good way to achieve this goal. `portability and structure all satisfied.`
+
