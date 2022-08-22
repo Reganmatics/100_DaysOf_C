@@ -171,3 +171,9 @@ Functions, nested loops
 - encountered musch difficult tasks
 
 ## End of day12 23:59:22
+
+
+# Day 13 && Day14
+- maintained the use case of symbolic links.
+- rolled into `Day14`
+- tested the required output using printf. (_putchar required)
